@@ -23,7 +23,7 @@
 
 &emsp;&emsp;但如果要深究下去，鱼与熊掌不能兼得更深的原因何在呢？江北地区也有嘉陵江的航道，为什么就不能在江北平坦地貌上展开分工贸易呢？这个困扰我很久的问题，无意中被一副地球知识局的地图所解开。
 
-![2]()
+![2](https://github.com/GeorgeSen/EconomicExplanation/blob/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/photo/2.jpg)
 
 &emsp;&emsp;长江和嘉陵江的**货流成为了决定重庆城区选址的关键因素**。
 
@@ -45,7 +45,7 @@
 &emsp;&emsp;物流格局的变化让江北至少和渝中半岛处于同一起跑线上，那么江北地势平坦开阔的优势就得以发挥了。
 <center>重庆地形全貌</center>
 
-![3]()
+![3](https://github.com/GeorgeSen/EconomicExplanation/blob/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/photo/3.jpg)
 
 &emsp;&emsp;重庆最大的地貌特征就是有五条平行岭贯穿，平行岭的间距呈现出北向开阔，越往南越收窄。这样的地理条件虽然总体上不利于经济发展，但如果只以分析域内的优劣，则因为局限清晰明朗，结论反而变得十分肯定。长江南岸基本上被长江和山势割得凌乱破碎，仅有的平坝子面积太小，根本展不开大规模的工商业分工，因此虽然和渝中半岛一样得享长江之利，但历史上始终没有成为主城区。
 
@@ -62,7 +62,7 @@
 
 三个坝子
 
-![4]()
+![4](https://github.com/GeorgeSen/EconomicExplanation/blob/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/photo/4.jpg)
 
 &emsp;&emsp;绿色线条表示江北大致上被山岭分割成三个坝子，大小形态分别由红色圆圈示意。
 
@@ -76,7 +76,7 @@
 
 二选一
 
-![5]()
+![5](https://github.com/GeorgeSen/EconomicExplanation/blob/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/photo/5.jpg)
 
 3、黄奇帆也解决不了的稀缺
 
@@ -88,6 +88,6 @@
 
 目标区域
 
-![6]()
+![6](https://github.com/GeorgeSen/EconomicExplanation/blob/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/photo/6.jpg)
 
 &emsp;&emsp;当然，再好的投资标的皆需要过估值一关，但我不打算再继续对房价本身做出评估。行文至此，逻辑结论最起码可以指导这样一种行为：卖掉方块区域以外的投资房产，转为下注方块区域以内，这样的套利行为回避了估值的高低麻烦，只确保自己在最佳的坐席上。
