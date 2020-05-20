@@ -13,7 +13,7 @@
 
 <center>渝中半岛历来是主城区</center>
 
-![1](https://github.com/GeorgeSen/EconomicExplanation/blob/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/photo/1.jpg)
+![1](https://github.com/GeorgeSen/EconomicExplanation/raw/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/photo/1.jpg)
 
 &emsp;&emsp;一个强烈的反例既有可能推翻一直有着广泛解释能力的理论，也有可能为这个理论增添新的深刻内容。重庆的反例是后者。
 
